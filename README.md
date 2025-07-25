@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋 I'm Farhan (a.k.a. paansplash)
 
-<!--
-**paansplash/paansplash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Web Developer** who’s passionate about translating business needs into smart, scalable applications. I thrive in the early stages of development—from **gathering requirements** to **planning**, **designing databases**, and **laying down strong architecture**.
 
-Here are some ideas to get you started:
+### 🚀 What I Do
+- 🔍 Gather and analyze business requirements
+- 🧠 Involved in system planning & architecture
+- 🗃️ Design and model relational databases
+- 🧑‍💻 Build full-stack web applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Backend:** Laravel, PHP
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap
+- **Database:** MySQL, PostgreSQL
+- **Tools:** Git, GitHub, Postman, VS Code
+
+### 🌱 Currently Learning
+- API integration & testing
+- Advanced Laravel patterns
+- React basics
+
+### 📫 Let’s Connect
+- Email: `your.email@example.com`
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Website/Portfolio: [yourwebsite.com](https://yourwebsite.com)
+
+---
+
+> “Building clean, purpose-driven systems—one requirement at a time.”
+
