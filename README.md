@@ -1,37 +1,30 @@
-## Hi there 👋 I'm Farhan (a.k.a. paansplash)
+## Hi there 👋
 
 I'm a **Web Developer** who’s passionate about translating business needs into smart, scalable applications. I thrive in the early stages of development—from **gathering requirements** to **planning**, **designing databases**, and **laying down strong architecture**.
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      
-### 🚀 What I Do
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: space-between;">
+
+<div style="flex: 1; min-width: 250px;">
+
+### 🚀 What I Do  
 - 🔍 Gather and analyze business requirements  
 - 🧠 Involved in system planning & architecture  
 - 🗃️ Design and model relational databases  
 - 🧑‍💻 Build full-stack web applications  
 
-</td>
-<td valign="top" width="33%">
+</div>
 
-### 🛠️ Tech Stack
+<div style="flex: 1; min-width: 250px;">
+
+### 🛠️ Tech Stack  
 - **Backend:** Laravel, PHP  
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap  
 - **Database:** MySQL, PostgreSQL  
 - **Tools:** Git, GitHub, Postman, VS Code  
 
-</td>
-<td valign="top" width="33%">
+</div>
 
-### 🌱 Currently Learning
-- API integration & testing  
-- Advanced Laravel patterns  
-- React basics  
-
-</td>
-  </tr>
-</table>
+</div>
 
 ### 📫 Let’s Connect
 - Email: `your.email@example.com`
