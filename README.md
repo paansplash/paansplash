@@ -28,10 +28,6 @@ I'm a **Web Developer** who’s passionate about translating business needs into
 
 ### 📫 Let’s Connect
 - Email: `your.email@example.com`
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Website/Portfolio: [yourwebsite.com](https://yourwebsite.com)
-
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/frhnfnd/)
 ---
-
-> “Building clean, purpose-driven systems—one requirement at a time.”
 
