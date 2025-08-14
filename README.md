@@ -27,7 +27,7 @@ I'm a **Web Developer** who’s passionate about translating business needs into
 </div>
 
 ### 📫 Let’s Connect
-- Email: `your.email@example.com`
+- Email: `farhanafandi.ar@gmail.com`
 - LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/frhnfnd/)
 ---
 
